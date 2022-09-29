@@ -4,6 +4,11 @@ I am an undergraduate student at the University of Piraeus in Athens in the depa
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/constantinos-argyriou-6b5719221/)
 
 # Work
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41435345&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=0x41435345&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0x41435345&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=0x41435345&theme=dark&hide_border=true&background=FFFFFF00">
+</p>
