@@ -5,3 +5,5 @@ I am an undergraduate student at the University of Piraeus in Athens in the depa
 
 # Work
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41435345&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0x41435345&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
