@@ -5,10 +5,10 @@ I am an undergraduate student at the University of Piraeus in Athens in the depa
 
 # Work
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=0x41435345&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=stars,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=0x41435345&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-stats.vercel.app/api?username=EmbeddedCat&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=stars,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EmbeddedCat&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 
 </p>
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=0x41435345&theme=dark&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=EmbeddedCat&theme=dark&hide_border=true&background=FFFFFF00">
 </p>
