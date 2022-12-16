@@ -12,4 +12,3 @@ To see my projects related to embedded systems, you can visit the embedded-syste
 [![Linkedin](https://img.shields.io/badge/Linkedin-Constantinos%20Argyriou-blue)](https://www.linkedin.com/in/constantinos-argyriou-6b5719221/)
 [![email](https://img.shields.io/badge/Email-embeddedcat%40pm.me-blue)](mailto:embeddedcat@pm.me)
 [![website](https://img.shields.io/badge/WebSite-https%3A%2F%2Fembeddedcat.github.io%2F-blue)](https://embeddedcat.github.io/)
-[![projects](https://img.shields.io/badge/Embedded--Projects-Embedded%20System%20Space-blue)](https://github.com/Embedded-System-Space)
