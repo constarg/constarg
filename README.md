@@ -7,5 +7,5 @@ Hello, welcome to my GitHub account. My nickname is EmbdeddedCat, I'm an undergr
 #
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Constantinos%20Argyriou-blue)](https://www.linkedin.com/in/constantinos-argyriou-6b5719221/)
-[![email](https://img.shields.io/badge/Email-embeddedcat%40pm.me-blue)](mailto:embeddedcat@pm.me)
-[![website](https://img.shields.io/badge/WebSite-https%3A%2F%2Fembeddedcat.github.io%2F-blue)](https://embeddedcat.github.io/)
+[![email](https://img.shields.io/badge/Email-constarg%40pm.me-blue)](mailto:constarg@pm.me)
+[![website](https://img.shields.io/badge/WebSite-https%3A%2F%2Fconstarg.github.io%2F-blue)](https://constarg.github.io/)
