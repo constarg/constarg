@@ -1,6 +1,12 @@
 
 # Introduction
-Hello, welcome to my GitHub account. My name is Constantinos Argyriou, I'm an undergraduate student at the University of Piraeus and the field that interested me the most is embedded systems. 
+Hello, welcome to my GitHub account. My name is Constantinos; as you can guess from my repositories, I'm interested in low-level programming and architechure of a computer. More specifically, I'm interested in the field of embedded systems, which is a field that deals with all sort of things, mainly with electronics. Below I will specify a few projects of mine. 
+
+# Embedded Systems related projects
+## Convolution Image processing
+This project consists of two parts, both written in C language. The purpose was to learn about the programming anviroment provided by Xlink for embedded system program development. More specifically, all  tests executed in a Zybo z7 development board. 
+
+# Low-level programming related projects
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constarg&layout=compact&hide_border=true&theme=transparentLtitle_color=0c7dbd&bg_color=00000000&langs_count=6&hide=java,css,html,PLpgSQL,javascript,shell)](https://github.com/EmbeddedCat)
