@@ -6,8 +6,18 @@ Hello, welcome to my GitHub account. My name is Constantinos; as you can guess f
 ## Convolution Image processing
 This project consists of two parts, both written in C language. The purpose was to learn about the programming anviroment provided by Xlink for embedded system program development. More specifically, all  tests executed in a Zybo z7 development board. 
 
+## Car detector
+
+
 # Low-level programming related projects
 
+# Knowledge related to Embedded Systems
+## Programming Languages
+- <b>C</b>
+- <b>C++</b>
+- <b>Assembly (MIPS)</b>
+- <b>Python</b>
+## Protocols
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constarg&layout=compact&hide_border=true&theme=transparentLtitle_color=0c7dbd&bg_color=00000000&langs_count=6&hide=java,css,html,PLpgSQL,javascript,shell)](https://github.com/EmbeddedCat)
 #
