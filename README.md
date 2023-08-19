@@ -1,6 +1,6 @@
 
 # Introduction
-Hello, welcome to my GitHub account. My name is Constantinos; I'm interested in low-level programming and computer architechure. More specifically, I'm interested in the field of embedded systems. Below I will specify a few projects of mine. 
+Hello, welcome to my GitHub account. My name is Constantinos; I'm interested in low-level programming and computer architecture. More specifically, I'm interested in the field of embedded systems. Below I will specify a few projects of mine. 
 
 # Embedded Systems related projects
 ## Convolution Image processing
