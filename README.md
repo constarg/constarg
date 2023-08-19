@@ -1,6 +1,6 @@
 
 # Introduction
-Hello, welcome to my GitHub account. My name is Constantinos; I'm interested in low-level programming and computer architechure. More specifically, I'm interested in the field of embedded systems, which is a field that deals with all sort of things, mainly with electronics. Below I will specify a few projects of mine. 
+Hello, welcome to my GitHub account. My name is Constantinos; I'm interested in low-level programming and computer architechure. More specifically, I'm interested in the field of embedded systems. Below I will specify a few projects of mine. 
 
 # Embedded Systems related projects
 ## Convolution Image processing
@@ -8,9 +8,6 @@ This project consists of two parts, both written in C language. The purpose was 
 Repository link: https://github.com/constarg/convolution-image-oparation
 
 ## Car detector
-
-
-# Low-level programming related projects
 
 # Knowledge related to Embedded Systems
 ## Programming Languages
