@@ -13,7 +13,8 @@ Repository link: https://github.com/constarg/convolution-image-oparation
 ## Programming Languages
 - <b>C</b>
 - <b>C++</b>
-- <b>Assembly (MIPS)</b>
+- <b>MIPS Assembly</b>
+- <b>x86 Assembly</b>
 - <b>Python</b>
 ## Hardware Description Languages
 - <b>VHDL</b>
