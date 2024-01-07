@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&multiline=true&repeat=false&random=false&width=580&height=105&lines=Baud+rate%3A+9600;Initialize+UART+;UART%3A+%2Fdev%2FttyACM0%2C+connected;%3E+Hello%2C+my+name+is+Kostas%2C+welcome+to++my+GitHub+account)](https://git.io/typing-svg)
 # Introduction
 Hello, welcome to my GitHub account. My name is Constantinos; I'm interested in low-level programming and computer architecture. More specifically, I'm interested in the field of embedded systems. Below I will specify a few projects of mine. 
 
