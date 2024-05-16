@@ -1,13 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&multiline=true&repeat=false&random=false&width=580&height=105&lines=Baud+rate%3A+9600;Initialize+UART+;UART%3A+%2Fdev%2FttyACM0%2C+connected;%3E+Hello%2C+my+name+is+Costas%2C+welcome+to++my+GitHub+account)](https://git.io/typing-svg)
 # Introduction
-Hello, welcome to my GitHub account. My name is Constantinos; I'm interested in low-level programming and computer architecture. More specifically, I'm interested in the field of embedded systems. Below I will specify a few projects of mine. 
+Hello and welcome to my GitHub account! My name is Constantinos, and I'm an undergraduate student at the University of Piraeus. My primary interest lies in embedded systems, a field that demands a solid understanding of computer architecture and low-level programming.
+
+At the university, I focus on studying computer architecture and mastering low-level programming languages such as C, C++, and Assembly. Within the field of embedded systems, I'm particularly interested in the concept of reliability.
+
+Feel free to browse through my projects on GitHub. If you have any questions or are interested in collaborating, don't hesitate to contact me.
 
 # Embedded Systems related projects
-## Convolution Image processing
-This project consists of two parts, both written in C language. The purpose was to learn about the programming anviroment provided by Xlink for embedded system program development. All tests executed in a Zybo z7 development board.
-Repository link: https://github.com/constarg/convolution-image-oparation
+## University's 
+### Convolution Image processing
+This project consists of two parts, both written in C. The purpose was to learn about the programming environment provided by Xlink for embedded system development. All tests were executed on a Zybo Z7 development board.
 
-## Car detector
+You can find the project repository here: https://github.com/constarg/convolution-image-oparation
+
+### Car detector
+This project is written in VHDL. Its purpose was to implement a circuit that checks whether a car enters or leaves a parking space and counts how many cars are already inside, determining if the parking space is full or has available spots.
+You can find the project repository here: https://github.com/constarg/car-detector-fpga
+
+### MIPS pipeline efficiency
+This project is written in MIPS assembly, and its purpose was to evaluate the efficiency provided by pipeline technology on a MIPS processor.
+
+You can find the project repository here: https://github.com/constarg/MIPS-Increase-efficiency-using-pipeline
+
 
 # Knowledge related to Embedded Systems
 ## Programming Languages
