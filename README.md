@@ -15,6 +15,7 @@ You can find the project repository here: https://github.com/constarg/convolutio
 
 ### Car detector
 This project is written in VHDL. Its purpose was to implement a circuit that checks whether a car enters or leaves a parking space and counts how many cars are already inside, determining if the parking space is full or has available spots.
+
 You can find the project repository here: https://github.com/constarg/car-detector-fpga
 
 ### MIPS pipeline efficiency
