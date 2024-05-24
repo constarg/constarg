@@ -40,9 +40,10 @@ You can find the project repository here: https://github.com/constarg/MIPS-Incre
 - <b>Make</b>
 - <b>GDB</b>
 ## Protocols
-- <b>UART<\b>
+- <b>UART</b>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constarg&layout=compact&hide_border=true&theme=transparentLtitle_color=0c7dbd&bg_color=00000000&langs_count=6&hide=java,css,html,PLpgSQL,javascript,shell)](https://github.com/EmbeddedCat)
-#
+
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Constantinos%20Argyriou-blue)](https://www.linkedin.com/in/constantinos-argyriou-6b5719221/)
 [![email](https://img.shields.io/badge/Email-constarg%40pm.me-blue)](mailto:constarg@pm.me)
