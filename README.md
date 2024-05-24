@@ -4,6 +4,8 @@ Hello and welcome to my GitHub account! My name is Constantinos, and I'm an unde
 
 At the university, I focus on studying computer architecture and mastering low-level programming languages such as C, C++, and Assembly. Within the field of embedded systems, I'm particularly interested in the concept of reliability.
 
+I'm also a big supporter of open source software. I'm passionate about its values of accessibility, transparency, and collaboration in creating fantastic programs. 
+
 Feel free to browse through my projects on GitHub. If you have any questions or are interested in collaborating, don't hesitate to contact me.
 
 # Embedded Systems related projects
