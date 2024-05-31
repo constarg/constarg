@@ -8,24 +8,6 @@ I'm also a big supporter of open source software. I'm passionate about its value
 
 Feel free to browse through my projects on GitHub. If you have any questions or are interested in collaborating, don't hesitate to contact me.
 
-# Embedded Systems related projects
-## University's 
-### Convolution Image processing
-This project consists of two parts, both written in C. The purpose was to learn about the programming environment provided by Xlink for embedded system development. All tests were executed on a Zybo Z7 development board.
-
-You can find the project repository here: https://github.com/constarg/convolution-image-oparation
-
-### Car detector
-This project is written in VHDL. Its purpose was to implement a circuit that checks whether a car enters or leaves a parking space and counts how many cars are already inside, determining if the parking space is full or has available spots.
-
-You can find the project repository here: https://github.com/constarg/car-detector-fpga
-
-### MIPS pipeline efficiency
-This project is written in MIPS assembly, and its purpose was to evaluate the efficiency provided by pipeline technology on a MIPS processor.
-
-You can find the project repository here: https://github.com/constarg/MIPS-Increase-efficiency-using-pipeline
-
-
 # Knowledge related to Embedded Systems
 ## Programming Languages
 - <b>C</b>
