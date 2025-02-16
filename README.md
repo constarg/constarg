@@ -1,9 +1,7 @@
 # Introduction
-Hello and welcome to my GitHub! My name is Constantinos, and I’m an undergraduate student at the University of Piraeus. 
+Hello, my name is Constantinos, and welcome to my GitHub account! I'm currently a student at the University Of Piraeus in Athens. The field that interests me the most in computer science is that of embedded systems (and anything that belongs to the Low-Level category is almost equally interesting to me, though). 
 
-At the university, I focus on studying computer architecture and exercising on low-level programming languages such as C, C++, and Assembly. My primary interest lies in embedded systems  and more specifically I'm interested in the concept of Embdedded system reliability.
-
-Feel free to browse through my projects on GitHub.
+Some of my repositories may not be considered very interesting, as they were an excuse for me to write a few lines of code, but I have some repositories that were made with the idea of making them useful. I hope that some of them will be useful! If you find some useful, don't hesitate to contact me for improvements or to consider contributing to them!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constarg&layout=compact&hide_border=true&theme=transparentLtitle_color=0c7dbd&bg_color=00000000&langs_count=6&hide=java,css,html,PLpgSQL,javascript,shell)](https://github.com/EmbeddedCat)
 
