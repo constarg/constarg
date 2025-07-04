@@ -1,5 +1,5 @@
 # Introduction
-Hello, my name is Constantinos, and welcome to my GitHub account! I'm currently a student at the University Of Piraeus in Athens. The field that interests me the most in computer science is that of embedded systems (and anything that belongs to the Low-Level category is almost equally interesting to me, though). 
+Hello, my name is Constantinos, and welcome to my GitHub account! I studied informatics at the University Of Piraeus in Athens. The field that interests me the most in computer science is that of embedded systems (and anything that belongs to the Low-Level category is almost equally interesting to me, though). 
 
 Some of my repositories may not be considered very interesting, as they were an excuse for me to write a few lines of code, but I have some repositories that were made with the idea of making them useful. I hope that some of them will be useful! If you find some useful, don't hesitate to contact me for improvements or to consider contributing to them!
 
