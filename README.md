@@ -3,7 +3,8 @@ Hello, my name is Constantinos, and welcome to my GitHub account! I studied info
 
 Some of my repositories may not be considered very interesting, as they were an excuse for me to write a few lines of code. However, I have some repositories that were created with the intention of making them useful. I hope that some of them will be useful! If you find something useful, don't hesitate to contact me for improvements or to consider contributing to them!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constarg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constarg&layout=compact&hide=java&theme=tokyonight)
+
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Constantinos%20Argyriou-blue)](https://www.linkedin.com/in/constantinos-argyriou-6b5719221/)
 [![email](https://img.shields.io/badge/Email-constarg%40pm.me-blue)](mailto:constarg@pm.me)
