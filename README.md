@@ -6,6 +6,6 @@ Some of my repositories may not be considered very interesting, as they were an 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constarg&layout=compact&hide=java&theme=tokyonight)
 
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-Constantinos%20Argyriou-blue)](https://www.linkedin.com/in/constantinos-argyriou-6b5719221/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Constantinos%20Argyriou-blue)](https://www.linkedin.com/in/kargyriou/)
 [![email](https://img.shields.io/badge/Email-constarg%40pm.me-blue)](mailto:constarg@pm.me)
 [![website](https://img.shields.io/badge/WebSite-https%3A%2F%2Fconstarg.github.io%2F-blue)](https://constarg.github.io/)
